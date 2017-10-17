@@ -1,5 +1,5 @@
-var name = "Susan"
-var height = 70  // removed previous "" around Int (not a String)
+var name = "Susan";
+var height = 70;  // removed previous "" around Int (not a String)
 
 /* Redundant seeing this during tests.js file execution. Thus, commenting 'out' for now.
 *  if (name == "Susan") {
